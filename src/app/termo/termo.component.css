@@ -1,0 +1,17 @@
+.bg-style{
+    background-image: url("../../assets/img/login-page/bg2.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-dicupa {
+    background-color: #e8edec;
+    border-radius: 25px;
+    border: none;
+}
+
+.texto {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #929393;
+}
